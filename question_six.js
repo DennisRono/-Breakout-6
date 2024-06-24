@@ -7,7 +7,7 @@ const getGrade = (grade) => {
     console.log(`Your Scored an C of (${grade})`)
   } else if (grade >= 80 && grade <= 89) {
     console.log(`Your Scored an B of (${grade})`)
-  } else if (grade > 90) {
+  } else if (grade > 90 && grade < 100) {
     console.log(`Your Scored an A of (${grade}) Congratulations! ✨✨`)
   } else {
     console.log('Invalid grade value!')

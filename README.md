@@ -1,3 +1,5 @@
+# Breakout Room 6 Group Discussion
+
 1. Write a program that declares a variable price as a number, product as a string, and isAvailable as a boolean. Print their data types to the console.
 
 2. Write a program that declares an array of numbers and a constant object representing a car with properties make, model, and year. Modify one of the properties of the object and print the updated object to the console.
@@ -10,11 +12,11 @@
 
 6. Write a program that takes a variable score and prints a grade based on the following criteria:
 
-> A for scores 90 and above
-> B for scores between 80 and 89
-> C for scores between 70 and 79
-> D for scores between 60 and 69
-> F for scores below 60
+   > A for scores 90 and above
+   > B for scores between 80 and 89
+   > C for scores between 70 and 79
+   > D for scores between 60 and 69
+   > F for scores below 60
 
 7. Write a program that checks if a given number num is both positive and even. Print "The number is positive and even" if both conditions are true, otherwise print "The number does not meet both conditions".
 
